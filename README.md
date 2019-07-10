@@ -14,6 +14,8 @@ cordova.plugins.fileOpener2.open(
     }
 );
 ```
+## Difference from the original version
+This plugin has the permission to install APK files and also sets the compatibility for building in Phonegap for older Android versions.
 
 ## Installation
 
