@@ -1,4 +1,4 @@
-# A File Opener Plugin for Cordova (The Original Version)
+# A File Opener Plugin for Cordova (fork of Original Version)
 
 [![Latest Stable Version](https://img.shields.io/npm/v/cordova-plugin-file-opener2.svg)](https://www.npmjs.com/package/cordova-plugin-file-opener2) [![Total Downloads](https://img.shields.io/npm/dt/cordova-plugin-file-opener2.svg)](https://npm-stat.com/charts.html?package=cordova-plugin-file-opener2) [![Build Status](https://travis-ci.org/apache/cordova-plugin-file-opener2.svg?branch=master)](https://travis-ci.org/apache/cordova-plugin-file-opener2)
 
